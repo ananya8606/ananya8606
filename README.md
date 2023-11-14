@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ananya Gupta</h1>
 <h3 align="center">Currently pursuing M.Tech in IT from IIIT Allahabad</h3>
