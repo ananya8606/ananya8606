@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ananya Gupta</h1>
-<h3 align="center">Currently pursuing M.Tech from IIIT Allahabad</h3>
+<h3 align="center">Currently pursuing M.Tech in IT from IIIT Allahabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya8606&label=Profile%20views&color=0e75b6&style=flat" alt="ananya8606" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ananya8606](https://github.com/ananya8606)
 
-- 📝 My article [https://www.geeksforgeeks.org/options-field-in-ipv4-header/](https://www.geeksforgeeks.org/options-field-in-ipv4-header/)
+- 📝 One of my published article [https://www.geeksforgeeks.org/options-field-in-ipv4-header/](https://www.geeksforgeeks.org/options-field-in-ipv4-header/) received 11k views on GFG.
 
 - 📫 How to reach me **ananyaiiitr@gmail.com**
 
