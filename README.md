@@ -6,21 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananya8606" alt="ananya8606" /></a> </p>
 
-- 🔭 I’m currently working as **GFG Technical writer intern**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ananya8606](https://github.com/ananya8606)
 
 - 📝 One of my published article [https://www.geeksforgeeks.org/options-field-in-ipv4-header/](https://www.geeksforgeeks.org/options-field-in-ipv4-header/) received 11k views on GFG.
 
 - 📫 How to reach me **ananyaiiitr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KA1NFRkWMRjB2uz1D5fUAQe3QemNj6Ad/view](https://drive.google.com/file/d/1KA1NFRkWMRjB2uz1D5fUAQe3QemNj6Ad/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ananyaiiitr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananyaiiitr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ananya_iiitr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananya_iiitr" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ananyaiiitr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ananyaiiitr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
