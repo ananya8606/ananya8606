@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananya8606" alt="ananya8606" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ananya8606](https://github.com/ananya8606)
+- [![An image of @ananya8606's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananya8606)](https://holopin.io/@ananya8606
 
 - 📝 One of my published article [https://www.geeksforgeeks.org/options-field-in-ipv4-header/](https://www.geeksforgeeks.org/options-field-in-ipv4-header/) received 11k views on GFG.
 
