@@ -25,7 +25,7 @@
 
 ## Connect with me 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)](https://www.linkedin.com/in/radhika-malpani-30832b22a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ananyaiiitr/)](https://www.linkedin.com/in/ananyaiiitr/)                  
 
 ## Hacktoberfest 2024 Badges
   [![An image of @ananya8606's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananya8606)](https://holopin.io/@ananya8606)
